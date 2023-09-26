@@ -10,7 +10,6 @@ The Cinema Room Manager is a Java-based program that simulates a cinema's ticket
 - [Code Structure](#code-structure)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
@@ -41,13 +40,11 @@ To run the Cinema Room Manager, follow these steps:
 - The main method orchestrates user interactions and menu choices.
 
 ## Dependencies
-The Cinema Ticket Booking System has no external dependencies. It relies solely on Java standard libraries.
+The Cinema Room Manager has no external dependencies. It relies solely on Java standard libraries.
 
 ## Contributing
 Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, please create a pull request. You can also report issues or request features through the GitHub issue tracker.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - The project was created as an educational exercise as part of Hyperskill's Intro to Java Track and serves as a foundation for understanding basic Java programming concepts.
+- Thanks to Hyperskill.org and Jetbrain Academy for letting us learn Java by bulding a project like this. 
